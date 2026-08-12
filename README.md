@@ -41,6 +41,10 @@ I am **AJ Ifeanyichukwu (Sanchez IQ)** — a Graduate Geologist and Web3 Communi
 - [Skills, Tools & Services](./skills-services/README.md)
 - [Professional Services](./services/README.md)
 
+### Evidence & Assets
+- [Evidence & Portfolio Assets](./evidence/README.md)
+- [Asset Checklist](./evidence/asset-checklist.md)
+
 ### Professional Documents
 - [CVs & Professional Profile](./cv/README.md)
 
