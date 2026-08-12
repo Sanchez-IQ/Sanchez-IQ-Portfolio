@@ -1,52 +1,87 @@
-# Sanchez-IQ Portfolio
+# Sanchez IQ — Professional Portfolio
 
-> A professional portfolio documenting my work across **Web3, blockchain community management, content creation, digital marketing, geology, research, customer support, and sales**.
+> **Graduate Geologist · Web3 Community Specialist · Content & Digital Marketing · Customer Support & Sales**
 
-## 🌐 Main Portfolio
+A growing public portfolio of professional experience, technical research, case studies, skills, services and selected evidence.
 
-**Portfolio Landing Page:** https://sites.google.com/view/plug2sanchez/home  
-**Services:** https://sites.google.com/view/plug2sanchez/services
+## 🚀 Start Here
 
-For a broader presentation of my professional services, projects, experience and portfolio materials, visit my Google Sites portfolio.
+| | Explore |
+|---|---|
+| 🌐 | **[Main Portfolio](https://sites.google.com/view/plug2sanchez/home)** — full professional presentation |
+| 💼 | **[Services](https://sites.google.com/view/plug2sanchez/services)** — what I can contribute |
+| 🔗 | **[LinkedIn](https://www.linkedin.com/in/ajukaifeanyichukwu/)** — professional profile |
+| 📂 | **[Evidence & Assets](./evidence/README.md)** — supporting work and materials |
+| 📄 | **[CV Hub](./cv/README.md)** — targeted career profiles |
 
-## 👋 About Me
+## 👋 About
 
-I am **AJ Ifeanyichukwu (Sanchez IQ)** — a Graduate Geologist and Web3 Community Specialist with a multidisciplinary background spanning community growth, moderation, content strategy, geological research, customer support, sales and digital communication.
+I am **AJ Ifeanyichukwu (Sanchez IQ)**, a Graduate Geologist and Web3 Community Specialist with a multidisciplinary background spanning community growth, moderation, content strategy, geological research, customer support, sales and digital communication.
 
-## 🧭 Core Areas
+My portfolio brings together **technical thinking, digital communication and commercial problem-solving** — with separate evidence paths for geoscience and Web3/digital work.
 
-- **Web3 & Blockchain:** Community management, moderation, ecosystem engagement, ambassador programs, DeFi research
-- **Content & Marketing:** Content strategy, technical storytelling, social media, promotional campaigns, community growth
-- **Community Operations:** Telegram, Discord, X/Twitter, engagement, support, announcements, AMAs and community initiatives
-- **Geoscience:** Sedimentary geology, geological mapping, reservoir characterization, field investigation and research
-- **Customer & Commercial:** Customer support, CRM, sales, lead generation, client follow-up and relationship management
+## ⭐ Featured Work
 
-## 📂 Portfolio
+### 🪨 Amasiri Sandstones — Geological Research
 
-### Web3 & Community
-- [Web3 & Community Management](./web3/README.md)
-- [StaFi Protocol Case Study](./web3/staFi-protocol.md)
+**Sedimentary Characteristics and Reservoir Potential of the Amasiri Sandstones**
 
-### Geology & Research
-- [Geology & Research](./geology/README.md)
-- [Amasiri Research Project](./geology/amasiri-reservoir-potential.md)
+A B.Sc. Geology research project involving geological mapping, field investigation, lithological and sedimentary characterization, GPS-supported sampling, structural measurements and laboratory analysis of sandstone properties.
 
-### Content & Digital Marketing
-- [Content Creation & Digital Marketing](./content-marketing/README.md)
+**Documented research snapshot:** 6 sandstone samples · 39.63% average porosity · density, porosity and permeability analysis.
 
-### Project Case Studies
-- [View all professional case studies](./case-studies/README.md)
+→ **[Technical Research Deep Dive](./geology/amasiri-research-deep-dive.md)**
 
-### Skills & Services
-- [Skills, Tools & Services](./skills-services/README.md)
-- [Professional Services](./services/README.md)
+### 🌐 Web3 — Community & Ecosystem Work
 
-### Evidence & Assets
-- [Evidence & Portfolio Assets](./evidence/README.md)
-- [Asset Checklist](./evidence/asset-checklist.md)
+Selected work covering community management, moderation, ambassador activity, product support, ecosystem communication, DeFi education and content creation.
 
-### Professional Documents
-- [CVs & Professional Profile](./cv/README.md)
+→ **[Web3 Portfolio](./web3/README.md)**  
+→ **[StaFi Case Study](./web3/staFi-protocol.md)**
+
+### 📣 Content & Digital Marketing
+
+Research-driven technical storytelling, educational content, social media communication, campaign messaging and community-growth content.
+
+→ **[Content & Digital Marketing](./content-marketing/README.md)**
+
+### 💼 Commercial & Customer Support
+
+Experience across customer communication, CRM, sales support, lead generation, follow-up and relationship management.
+
+→ **[Project Case Studies](./case-studies/README.md)**
+
+## 🧭 Career Pathways
+
+### 🛢️ Oil & Gas / Energy
+
+Sedimentary geology · Reservoir characterization · Geological research · Field investigation · Technical reporting
+
+**Best evidence:** [Amasiri Research](./geology/amasiri-research-deep-dive.md) · [Geology](./geology/README.md)
+
+### ⛏️ Mining
+
+Geological mapping · Sampling · Lithological characterization · Field documentation · Geological data interpretation
+
+**Best evidence:** [Geology](./geology/README.md) · [Evidence Hub](./evidence/README.md)
+
+### 🌊 Environmental / Water / Geotechnical
+
+Geological field skills · Water operations exposure · Sample analysis · Technical documentation · Research
+
+**Best evidence:** [Skills & Services](./skills-services/README.md) · [Evidence Hub](./evidence/README.md)
+
+### 🌐 Web3 / Community / Digital
+
+Community management · Moderation · Content · Ecosystem engagement · DeFi research · Social media · Product support
+
+**Best evidence:** [Web3](./web3/README.md) · [Case Studies](./case-studies/README.md)
+
+### 💼 Sales / Customer Support
+
+Customer service · CRM · Lead generation · Client follow-up · Relationship management · Problem solving
+
+**Best evidence:** [Case Studies](./case-studies/README.md) · [Skills & Services](./skills-services/README.md)
 
 ## 🛠️ Skills Snapshot
 
@@ -60,9 +95,20 @@ I am **AJ Ifeanyichukwu (Sanchez IQ)** — a Graduate Geologist and Web3 Communi
 
 **Commercial:** Sales · Lead Generation · CRM · Negotiation · Customer Retention
 
-## 🎯 What I Am Building
+## 📚 Explore the Portfolio
 
-This repository is the foundation of my public professional portfolio. I will continue adding selected projects, research work, case studies, documentation, CVs and evidence of my work.
+- [Web3 & Community Management](./web3/README.md)
+- [Geology & Research](./geology/README.md)
+- [Content & Digital Marketing](./content-marketing/README.md)
+- [Project Case Studies](./case-studies/README.md)
+- [Skills, Tools & Services](./skills-services/README.md)
+- [Professional Services](./services/README.md)
+- [Evidence & Portfolio Assets](./evidence/README.md)
+- [CV & Professional Documents](./cv/README.md)
+
+## 🔐 Evidence Standard
+
+This repository is designed as a professional public portfolio. Claims and technical details should be supported by available source material, while confidential information, credentials and private project data should remain private.
 
 ## 📫 Connect
 
@@ -73,4 +119,4 @@ This repository is the foundation of my public professional portfolio. I will co
 
 ---
 
-*Built as an evolving portfolio — one project at a time.*
+*Built as an evolving professional portfolio — one project at a time.*
