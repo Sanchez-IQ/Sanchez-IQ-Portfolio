@@ -4,46 +4,62 @@ This section presents my academic and technical background in geology, with emph
 
 ## Academic Focus
 
-- Sedimentology
+- Sedimentary Geology
 - Sedimentary characteristics
 - Reservoir characterization
 - Geological field and laboratory research
-- Stratigraphic interpretation
+- Geological mapping and field investigation
 - Petroleum geoscience concepts
-- Earth science research and technical documentation
+- Geological data analysis and technical reporting
 
-## Featured Research Project
+## Featured Research Projects
 
-### Sedimentary Characteristics and Reservoir Potential of the Amasiri Area
+### 1. Sedimentary Characteristics and Reservoir Potential of the Amasiri Sandstones
 
-My academic research project examines the **sedimentary characteristics and reservoir potential of the Amasiri area**. The project forms an important part of my geological research portfolio and demonstrates my ability to investigate geological materials, document observations, interpret sedimentary characteristics, and connect geological evidence with reservoir-quality considerations.
+My B.Sc. Geology research project investigated the sedimentary characteristics and reservoir potential of the Amasiri Sandstones through geological mapping, field investigation, sampling and laboratory evaluation of sandstone properties. The work included analysis of six sandstone samples and reported an average porosity of 39.63%. fileciteturn21file0L31-L41
 
-→ [View the Amasiri research project](./amasiri-reservoir-potential.md)
+- [Research overview](./amasiri-reservoir-potential.md)
+- [Technical research deep dive](./amasiri-research-deep-dive.md)
 
-## Professional Value
+## Geological Field & Laboratory Experience
 
-My geology background provides a strong foundation for roles and projects involving:
+The documented geological experience includes:
 
-- Oil & gas / energy geoscience
-- Mining and mineral exploration
+- Geological mapping
+- Lithological description and characterization
+- Geological logging
+- Geological sampling
+- Structural measurements
+- GPS/GIS applications
+- Porosity analysis
+- Permeability analysis
+- Bulk density analysis
+- Particle density analysis
+- Geological data interpretation
+- Technical reporting fileciteturn21file1L102-L137
+
+## Water & Environmental Experience
+
+My technical background also includes six months with Cross River State Water Board Limited, supporting water collection, purification, quality-control procedures, sample analysis and treated-water distribution operations. fileciteturn21file0L42-L50
+
+## Professional Relevance
+
+The geology portfolio is positioned for graduate, trainee and junior opportunities in:
+
+- Oil & gas / petroleum geoscience
+- Sedimentology
+- Reservoir studies
+- Energy geoscience
+- Mining and exploration
 - Environmental geology
-- Water and groundwater studies
+- Water / groundwater-related work
 - Geotechnical and engineering geology
 - Geological research and technical reporting
-- Data collection, interpretation and documentation
 
 ## Research Approach
 
-My geological project work emphasizes a structured workflow:
-
-1. Define the geological problem and research objectives.
-2. Review relevant geological literature and regional context.
-3. Collect and document appropriate geological observations or data.
-4. Characterize geological materials and sedimentary features.
-5. Interpret the evidence using appropriate geological concepts.
-6. Relate observations to the research question and potential applications.
-7. Present results in a clear technical format.
+My documented research workflow combines field investigation, geological characterization, systematic documentation, sample collection, laboratory testing and interpretation of reservoir-related properties.
 
 ---
 
-*Additional geological projects and technical work will be added as this portfolio develops.*
+[← Back to Portfolio](../README.md)
