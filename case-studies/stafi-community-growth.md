@@ -59,7 +59,7 @@ Community Management · Discord Administration · Telegram Support · Twitter/X 
 
 ## Evidence
 
-The metrics and responsibilities above are based on the Web3 Community Specialist CV provided for this portfolio. fileciteturn3file0L26-L45
+The metrics and responsibilities above are drawn from the professional CV supplied for this portfolio.
 
 ---
 
