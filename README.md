@@ -44,6 +44,13 @@ I enjoy working with ambitious teams building useful products at the intersectio
 - Project announcements and educational threads
 - Brand communication and audience engagement
 
+### Project Case Studies
+- [View all professional case studies](./case-studies/README.md)
+- StaFi community growth and operations
+- Bedrock ambassador and ecosystem support
+- Web3 technical storytelling
+- Sales and customer support
+
 ### Professional Documents
 - [CVs & Professional Profile](./cv/README.md)
 
