@@ -2,6 +2,12 @@
 
 > A professional portfolio documenting my work across **Web3, blockchain community management, content creation, digital marketing, geology, research, and customer support**.
 
+## 🌐 Main Portfolio
+
+**Portfolio Landing Page:** https://sites.google.com/view/plug2sanchez/home
+
+For a broader presentation of my professional services, projects, experience and portfolio materials, visit my Google Sites landing page.
+
 ## 👋 About Me
 
 I am **AJ Ifeanyichukwu (Sanchez IQ)** — a Graduate Geologist and Web3 Community Specialist with a multidisciplinary background spanning community growth, moderation, content strategy, research, customer support, and digital communication.
@@ -19,21 +25,27 @@ I enjoy working with ambitious teams building useful products at the intersectio
 ## 📂 Portfolio
 
 ### Web3 & Community
+- [Web3 & Community Management](./web3/README.md)
+- [StaFi Protocol Case Study](./web3/staFi-protocol.md)
 - Community management and moderation
 - Web3 content and campaign development
 - DeFi/LST/LRT research and educational content
-- Ambassador and ecosystem contribution work
 
 ### Geology & Research
+- [Geology & Research](./geology/README.md)
+- [Amasiri Research Project](./geology/amasiri-reservoir-potential.md)
 - Academic geological research
 - Sedimentary characteristics and reservoir-potential studies
-- Geoscience projects and technical documentation
 
 ### Content & Digital Marketing
+- [Content Creation & Digital Marketing](./content-marketing/README.md)
 - Social media content
 - Community growth campaigns
 - Project announcements and educational threads
 - Brand communication and audience engagement
+
+### Professional Documents
+- [CVs & Professional Profile](./cv/README.md)
 
 ## 🛠️ Skills
 
@@ -47,12 +59,13 @@ I enjoy working with ambitious teams building useful products at the intersectio
 
 ## 🎯 What I Am Building
 
-This repository is the foundation of my public professional portfolio. I will continue adding selected projects, research work, case studies, documentation, and other examples of my work.
+This repository is the foundation of my public professional portfolio. I will continue adding selected projects, research work, case studies, documentation, CVs and other examples of my work.
 
 ## 📫 Connect
 
-- **GitHub:** [Sanchez-IQ](https://github.com/Sanchez-IQ)
-- **LinkedIn:** [AJ Ifeanyichukwu](https://www.linkedin.com/in/ajukaifeanyichukwu/)
+- **GitHub:** https://github.com/Sanchez-IQ
+- **LinkedIn:** https://www.linkedin.com/in/ajukaifeanyichukwu/
+- **Portfolio:** https://sites.google.com/view/plug2sanchez/home
 
 ---
 
