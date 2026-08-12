@@ -2,7 +2,7 @@
 
 > **Graduate Geologist · Web3 Community Specialist · Content & Digital Marketing · Customer Support & Sales**
 
-A growing public portfolio of professional experience, technical research, case studies, skills, services and selected evidence.
+Welcome to my professional portfolio — a public collection of **geoscience research, Web3 community work, content strategy, case studies, skills and supporting evidence**.
 
 ## 🚀 Start Here
 
@@ -14,11 +14,11 @@ A growing public portfolio of professional experience, technical research, case 
 | 📂 | **[Evidence & Assets](./evidence/README.md)** — supporting work and materials |
 | 📄 | **[CV Hub](./cv/README.md)** — targeted career profiles |
 
-## 👋 About
+## 👋 About Me
 
-I am **AJ Ifeanyichukwu (Sanchez IQ)**, a Graduate Geologist and Web3 Community Specialist with a multidisciplinary background spanning community growth, moderation, content strategy, geological research, customer support, sales and digital communication.
+I am **AJ Ifeanyichukwu (Sanchez IQ)**, a Graduate Geologist and Web3 Community Specialist with a multidisciplinary background spanning **community growth, moderation, content strategy, geological research, customer support, sales and digital communication**.
 
-My portfolio brings together **technical thinking, digital communication and commercial problem-solving** — with separate evidence paths for geoscience and Web3/digital work.
+I use research, communication and problem-solving to turn complex information into practical, well-documented work. This repository brings those capabilities together through separate evidence paths for **geoscience, Web3, digital communication and professional services**.
 
 ## ⭐ Featured Work
 
