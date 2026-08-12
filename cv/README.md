@@ -1,37 +1,52 @@
-# CVs & Professional Profile
+# CV & Professional Documents
 
-This section provides a professional document hub for my career materials.
+This directory is the document hub for my targeted professional CVs and application materials.
 
-## Current CV Versions
+## CV Strategy
 
-### Web3 Community Specialist CV
+I maintain targeted versions of my CV so that each application can emphasize the experience most relevant to the role.
 
-My Web3-focused CV presents my experience in community management, moderation, content creation, ambassador work and blockchain ecosystem engagement. It highlights experience including StaFi Protocol and Bedrock DeFi. The CV states that I scaled the StaFi community from 7k to over 15k users and increased active participation and retention by more than 40%. fileciteturn1file0L17-L28
+| CV / Profile | Primary Target | Supporting Portfolio Sections |
+|---|---|---|
+| **Oil & Gas / Energy** | Energy geoscience, petroleum geology, reservoir-focused graduate roles | `geology/`, Amasiri research, `evidence/` |
+| **Mining** | Mining, mineral exploration, geological field roles | `geology/`, `evidence/` |
+| **Environmental / Water / Geotechnical** | Environmental geology, water, geotechnical and related graduate roles | `geology/`, `skills-services/`, `evidence/` |
+| **Web3 Community Specialist** | Community management, moderation, Web3 content and ecosystem roles | `web3/`, `content-marketing/`, `case-studies/` |
+| **Sales / Customer Service** | Customer support, sales and client-facing roles | `case-studies/`, `skills-services/` |
 
-### Sales / Customer Service Representative CV
+## Geological Profile
 
-My sales and customer-service CV presents experience across sales, real estate, customer support and CRM-oriented work. It highlights more than ₦100M in leads/sales from local real-estate properties and a 40% repeat-customer rate in the Success Haven Estates role. fileciteturn1file1L24-L36
+My geological portfolio is supported by documented academic research and field/laboratory experience. The Amasiri research work includes geological mapping, lithological characterization, field logging, GPS positioning, structural measurements, sampling and laboratory analysis. fileciteturn13file0L5-L17
 
-## CV Access
+The research also reports analysis of six sandstone samples, including porosity and permeability evaluation, with an average porosity of 39.63% across the analysed samples. fileciteturn13file0L22-L32
 
-For the latest versions and the broader presentation of my professional profile, visit my main portfolio:
+## Water / Environmental Profile
 
-**Google Sites:** https://sites.google.com/view/plug2sanchez/home
+My Cross River State Water Board experience provides supporting evidence for water and environmental applications, including water collection, purification, quality control, sample analysis and treated-water distribution operations. fileciteturn13file0L33-L42
 
-## Planned Additions
+## Web3 Profile
 
-Additional targeted CV versions can be added here as the portfolio develops, including:
+My Web3 CV and portfolio emphasize community management, moderation, growth, content creation, ecosystem engagement and product support. The documented StaFi experience includes community growth and engagement responsibilities. fileciteturn3file0L26-L45
 
-- Oil & Gas / Energy Geology CV
-- Mining Geology CV
-- Environmental / Water / Geotechnical CV
-- Web3 / Community Management CV
-- Sales / Customer Support CV
+## Sales / Customer Service Profile
+
+My commercial experience includes sales, customer relationship management, lead generation, follow-up and customer support. The documented Success Haven Estates role includes ₦100M+ in leads/sales and a 40% repeat-customer rate. fileciteturn4file1L90-L110
+
+## Documents to Add
+
+- [ ] Oil & Gas / Energy CV PDF
+- [ ] Mining CV PDF
+- [ ] Environmental / Water / Geotechnical CV PDF
+- [ ] Web3 Community Specialist CV PDF
+- [ ] Sales / Customer Service CV PDF
+- [ ] Selected certificates, where appropriate for public sharing
 
 ## Document Policy
 
 This repository will prioritize accurate, current versions of professional documents. Where a document contains detailed employment metrics, qualifications or project information, those details should be taken from the corresponding CV or supporting source rather than reconstructed from memory.
 
+> **Note:** The current GitHub-connected workflow supports text/Markdown creation directly. PDF files should be uploaded through GitHub's web interface when we are ready to add the binary documents.
+
 ---
 
-[← Back to main portfolio](../README.md)
+[← Back to Portfolio](../README.md)
