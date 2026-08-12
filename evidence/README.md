@@ -9,43 +9,21 @@ This section is the evidence hub for selected projects, professional documents, 
 - **LinkedIn:** https://www.linkedin.com/in/ajukaifeanyichukwu/
 - **GitHub:** https://github.com/Sanchez-IQ
 
-## 📄 Professional Documents
+## 🪨 Featured Research Evidence
 
-The repository will reference selected CVs and professional documents as they are made available in GitHub-compatible formats.
+### Amasiri Sandstone Research
 
-Current documented professional areas include:
+The original Amasiri research project is a 45-page academic study covering the study background, geological setting, literature review, field/laboratory methodology, results, discussion, conclusion and references. fileciteturn28file0L1-L9
 
-- Web3 Community Specialist
-- Community Manager / Moderator
-- Product Support / Customer Service
-- Sales and commercial support
-- Graduate Geologist
+→ **[Source-backed Amasiri Research Evidence](./amasiri-research-evidence.md)**
 
-## 🪨 Geological Research Evidence
+→ **[Technical Research Deep Dive](../geology/amasiri-research-deep-dive.md)**
 
-### Amasiri Sandstones Research
-
-The Amasiri research project provides documented evidence of practical geological work, including:
-
-- Geological mapping
-- Traverse-based field investigation
-- Lithological and textural characterization
-- Field logging
-- GPS-supported sample positioning
-- Structural measurements
-- Rock sampling
-- Laboratory evaluation of sandstone properties
-- Bulk density analysis
-- Particle density analysis
-- Porosity analysis
-- Constant-head permeability testing
-- Reservoir-quality interpretation
-
-The geological CV records **six sandstone samples** and an **average porosity of 39.63%** across the analysed samples. fileciteturn13file0L22-L32
+The source documents six rock samples, porosity and permeability testing, a mean porosity of 39.63%, and sample-level results. fileciteturn29file0L212-L218 fileciteturn29file0L310-L342
 
 ## 💧 Water / Environmental Evidence
 
-Professional training with Cross River State Water Board Limited included water collection, purification, quality-control procedures, sample analysis and treated-water distribution operations. fileciteturn13file0L33-L42
+Professional training with Cross River State Water Board Limited included water collection, purification, quality-control procedures, sample analysis and treated-water distribution operations.
 
 ## 🌐 Web3 Evidence
 
@@ -61,11 +39,9 @@ The Web3 portfolio documents selected work involving:
 - AMAs and community events
 - Campaign and ecosystem communications
 
-## 📈 Results & Metrics
+## 📄 Professional Documents
 
-Where measurable outcomes are documented, this repository will preserve the source-backed figures rather than inventing or estimating results.
-
-Examples already documented in the professional portfolio include community-growth and engagement metrics associated with previous Web3 work and commercial results from sales/customer-service experience.
+Targeted CV profiles are organized in the [CV Hub](../cv/README.md). Public PDFs and selected certificates can be added as GitHub assets when appropriate.
 
 ## 📸 Visual & Original Assets
 
